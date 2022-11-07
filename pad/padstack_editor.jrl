@@ -1,0 +1,9 @@
+\t (00:00:00) padstack_editor 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Nov  2 11:13:52 2022
+\t (00:00:00)         Host=DESKTOP-A2LII1O User=Administrator Pid=3844 CPUs=16
+\t (00:00:00) CmdLine= c:\cadence\spb_17.4\tools\bin\padstack_editor.exe C:\Cadence\SPB_Data\Lib\.git\lost-found\pad\smdrx1_72y1_75.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:09) QtFillin No
+\t (00:00:09)     Journal end - Wed Nov  2 11:14:01 2022

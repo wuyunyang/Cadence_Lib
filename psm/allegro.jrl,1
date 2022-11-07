@@ -1,0 +1,28 @@
+\t (00:00:02) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Nov  7 10:22:47 2022
+\t (00:00:02)         Host=DESKTOP-A2LII1O User=Administrator Pid=16168 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Cadence\SPB_Data\Lib\.git\lost-found\psm\mth250r125.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) >>> Loadling MyTools
+\t (00:00:04) Opening existing design...
+\e (00:00:04) ERROR(SPMHUT-41): File selected is not of type Drawing.
+\e (00:00:04) ERROR(SPMHUT-41): File selected is not of type Drawing.
+\i (00:00:06) fillin confirm
+\t (00:00:06) Starting new design...
+\t (00:00:06) >>> MyTools:Customizations allegro menu update complete
+
+   (00:00:06) Loading cmds.cxt 
+\i (00:00:06) trapsize 782
+\i (00:00:06) trapsize 803
+\i (00:00:06) trapsize 810
+\i (00:00:06) trapsize 799
+\i (00:00:06) trapsize 921
+\i (00:00:06) set showmeasure_altunits = millimeters 
+\i (00:00:06) funckey 1 'pop swap;class etch;subclass TOP' 
+\t (00:00:06) >>> funckey 1 'pop swap;class etch;subclass TOP'
+\i (00:00:06) funckey 2 'pop swap;class etch;subclass BOTTOM' 
+\t (00:00:06) >>> funckey 2 'pop swap;class etch;subclass BOTTOM'
+\i (00:00:07) generaledit 
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Mon Nov  7 10:22:52 2022

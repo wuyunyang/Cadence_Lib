@@ -1,0 +1,27 @@
+\t (00:00:02) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Nov  7 10:25:00 2022
+\t (00:00:02)         Host=DESKTOP-A2LII1O User=Administrator Pid=6804 CPUs=16
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Cadence\SPB_Data\Lib\.git\lost-found\psm\Shape-UC22-0B0002R1-1.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) >>> Loadling MyTools
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Cadence/SPB_Data/Lib/.git/lost-found/psm/Shape-UC22-0B0002R1-1.dra
+\t (00:00:05) >>> MyTools:Customizations pcb_symbol menu update complete
+
+   (00:00:05) Loading cmds.cxt 
+\t (00:00:05) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:00:05) trapsize 92
+\i (00:00:05) trapsize 94
+\i (00:00:05) trapsize 92
+\i (00:00:05) trapsize 97
+\i (00:00:05) trapsize 115
+\i (00:00:05) set showmeasure_altunits = mils 
+\i (00:00:05) generaledit 
+\i (00:00:07) create symbol 
+\i (00:00:08) fillin "Shape-UC22-0B0002R1-1.ssm"
+\t (00:00:08) Creating shape symbol 'C:/Cadence/SPB_Data/Lib/.git/lost-found/psm/Shape-UC22-0B0002R1-1.ssm'.
+\t (00:00:08) Starting Create symbol...
+\i (00:00:09) generaledit 
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Mon Nov  7 10:25:08 2022
