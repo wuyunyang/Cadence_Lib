@@ -1,59 +1,26 @@
-\t (00:00:02) allegro 17.4 S030 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Nov  7 10:38:32 2022
-\t (00:00:02)         Host=DESKTOP-A2LII1O User=Administrator Pid=9700 CPUs=16
-\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Cadence\SPB_Data\Lib\pad\PAD-R0_3-1_5.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:02) >>> Loadling MyTools
-\t (00:00:05) Opening existing design...
-\d (00:00:05) Design opened: C:/Cadence/SPB_Data/Lib/pad/PAD-R0_3-1_5.dra
-\t (00:00:05) >>> MyTools:Customizations pcb_symbol menu update complete
+\t (00:00:01) allegro 17.4 S030 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Nov  7 13:52:30 2022
+\t (00:00:01)         Host=DESKTOP-A2LII1O User=Administrator Pid=4272 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) >>> Loadling MyTools
+\t (00:00:01) Starting new design...
+\t (00:00:02) >>> MyTools:Customizations allegro menu update complete
 
-   (00:00:05) Loading cmds.cxt 
-\t (00:00:05) Grids are drawn 6.4000, 6.4000 apart for enhanced viewing.
-\i (00:00:05) trapsize 237
-\i (00:00:05) trapsize 243
-\i (00:00:05) trapsize 237
-\i (00:00:05) trapsize 250
-\i (00:00:05) trapsize 250
-\i (00:00:05) set showmeasure_altunits = mils 
-\i (00:00:05) generaledit 
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out -0.9872 0.0420
-\i (00:00:06) trapsize 501
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out -0.9873 0.0320
-\i (00:00:06) trapsize 1002
-\i (00:00:06) zoom out 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom out -0.9873 0.0320
-\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:06) trapsize 2003
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.6667 -0.0882
-\i (00:00:07) trapsize 1002
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.4263 -0.0682
-\i (00:00:07) trapsize 501
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.3261 -0.0581
-\i (00:00:07) trapsize 250
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.2960 -0.0481
-\i (00:00:07) trapsize 125
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.2910 -0.0456
-\i (00:00:07) trapsize 63
-\i (00:00:08) zoom out 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom out -0.3536 -0.0894
-\i (00:00:08) trapsize 125
-\i (00:00:19) exit 
-\t (00:00:19)     Journal end - Mon Nov  7 10:38:49 2022
+   (00:00:02) Loading cmds.cxt 
+\i (00:00:02) trapsize 782
+\i (00:00:02) trapsize 803
+\i (00:00:02) trapsize 810
+\i (00:00:02) trapsize 799
+\i (00:00:02) trapsize 939
+\i (00:00:02) trapsize 921
+\i (00:00:02) set showmeasure_altunits = millimeters 
+\i (00:00:02) funckey 1 'pop swap;class etch;subclass TOP' 
+\t (00:00:02) >>> funckey 1 'pop swap;class etch;subclass TOP'
+\i (00:00:02) funckey 2 'pop swap;class etch;subclass BOTTOM' 
+\t (00:00:02) >>> funckey 2 'pop swap;class etch;subclass BOTTOM'
+\i (00:00:02) generaledit 
+\i (00:00:03) new 
+\i (00:01:19) newdrawfillin "IND0402.dra" "Package Symbol"
+\t (00:01:19)     Journal end - Mon Nov  7 13:53:48 2022
