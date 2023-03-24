@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : hdmi_type_a.dra                               )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Thu Mar 23 10:45:21 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_Data/Lib/psm
+    Name      = hdmi_type_a.psm
+    User      = Administrator
+    Machine   = DESKTOP-A2LII1O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

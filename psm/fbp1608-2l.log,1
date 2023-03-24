@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FBP1608-2L.dra                                )
+(    Software Version : 17.4S033                                      )
+(    Date/Time        : Tue Feb 14 17:58:03 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_Data/Lib/psm
+    Name      = fbp1608-2l.psm
+    User      = Administrator
+    Machine   = DESKTOP-A2LII1O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

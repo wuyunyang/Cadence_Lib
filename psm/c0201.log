@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : c0201.dra                                     )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Thu Mar 23 11:11:40 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_Data/Lib/psm
+    Name      = c0201.psm
+    User      = Administrator
+    Machine   = DESKTOP-A2LII1O
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
