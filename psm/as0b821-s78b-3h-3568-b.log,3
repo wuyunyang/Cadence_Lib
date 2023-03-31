@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : FBP1608-2L.dra                                )
-(    Software Version : 17.4S033                                      )
-(    Date/Time        : Tue Feb 14 18:04:13 2023                      )
+(    Drawing          : as0b821-s78b-3h-3568-b.dra                    )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Wed Mar 29 12:35:57 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = C:/Cadence/SPB_Data/Lib/psm
-    Name      = fbp1608-2l.psm
+    Name      = as0b821-s78b-3h-3568-b.psm
     User      = Administrator
     Machine   = DESKTOP-A2LII1O
 

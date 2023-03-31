@@ -1,40 +1,21 @@
 \t (00:00:01) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Thu Mar 23 13:00:58 2023
-\t (00:00:01)         Host=DESKTOP-A2LII1O User=Administrator Pid=21168 CPUs=16
-\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Cadence\SPB_Data\Lib\psm\JPD1135-M048-4F.dra
+\t (00:00:01)     Journal start - Thu Mar 30 10:43:19 2023
+\t (00:00:01)         Host=DESKTOP-A2LII1O User=Administrator Pid=9996 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Cadence\SPB_Data\Lib\psm\DFN2X2-3L.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
 \t (00:00:01) >>> Loadling MyTools
 \t (00:00:01) Opening existing design...
-\d (00:00:01) Design opened: C:/Cadence/SPB_Data/Lib/psm/JPD1135-M048-4F.dra
+\d (00:00:01) Design opened: C:/Cadence/SPB_Data/Lib/psm/DFN2X2-3L.dra
 \t (00:00:01) >>> MyTools:Customizations pcb_symbol menu update complete
 
    (00:00:01) Loading cmds.cxt 
-\i (00:00:01) trapsize 1691
-\i (00:00:01) trapsize 1736
-\i (00:00:01) trapsize 1691
-\i (00:00:01) trapsize 1999
-\i (00:00:01) trapsize 1999
+\i (00:00:01) trapsize 229
+\i (00:00:01) trapsize 236
+\i (00:00:01) trapsize 229
+\i (00:00:01) trapsize 278
+\i (00:00:01) trapsize 278
 \i (00:00:01) set showmeasure_altunits = mils 
 \i (00:00:01) generaledit 
-\i (00:00:03) 3d 
-\i (00:00:04) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
-\i (00:00:05) generaledit 
-\i (00:00:08) QtSignal pcb3dViewer pcb3dViewer closed
-\i (00:00:11) step pkg map 
-\i (00:00:12) fillin yes 
-\i (00:00:35) setwindow form.pkgmap3d
-\i (00:00:35) FORM pkgmap3d show_step_origin YES 
-\i (00:00:36) FORM pkgmap3d show_step_origin NO 
-\i (00:00:36) FORM pkgmap3d show_step_origin YES 
-\i (00:00:49) FORM pkgmap3d done  
-\i (00:00:49) setwindow pcb
-\i (00:00:49) generaledit 
-\i (00:00:52) 3d 
-\i (00:00:53) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
-\i (00:00:54) generaledit 
-\i (00:01:00) QtSignal pcb3dViewer pcb3dViewer closed
-\i (00:01:02) exit 
-\e (00:01:02) Do you want to save the changes you made to JPD1135-M048-4F.dra?
-\i (00:01:04) fillin no 
-\t (00:01:04)     Journal end - Thu Mar 23 13:02:01 2023
+\i (00:00:03) exit 
+\t (00:00:03)     Journal end - Thu Mar 30 10:43:21 2023
