@@ -1,14 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Downrev Design                                                   )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : smdrx1_00y0_35                                )
+(    Drawing          : rj45-90s.dra                                  )
 (    Software Version : 17.4S035                                      )
-(    Date/Time        : Fri May 26 13:08:06 2023                      )
+(    Date/Time        : Wed May 17 17:31:31 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_Data/Lib/psm
+    Name      = rj45-90s.psm
+    User      = Administrator
+    Machine   = DESKTOP-A2LII1O
 
-Changes made to design for 17.2 compatibility.
+
+Create symbol started.
+ 
+
+Create symbol completed.
 
