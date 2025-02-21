@@ -1,0 +1,6 @@
+\t (00:00:01) padstack_editor 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Nov 18 18:58:39 2024
+\t (00:00:01)         Host=DESKTOP-T2M7KVK User=94373 Pid=3148 CPUs=8
+\t (00:00:01) CmdLine= c:\cadence\spb_17.4\tools\bin\padstack_editor.exe C:\Cadence\SPB_Data\Lib\pad\holeox2_10y1_00dox1_60y0_50.pad
+\t (00:00:01) 
+\t (00:00:58)     Journal end - Mon Nov 18 18:59:36 2024
